@@ -1,0 +1,42 @@
+th {
+  font-size:20px,
+}
+td {
+  font-size:15px,
+}
+h1 {
+  height:50%;
+}
+h2{
+  font-size:100%;
+}
+p {
+  font-size:150%;
+}
+h3{
+  font-size:50%,
+}
+P {
+  text-align:center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+}
+
+.center {
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
